@@ -6,5 +6,5 @@
 Passos para utilizaçao do projeto na maquina:
 
 ```
-git init
+git clone https://github.com/DenysonPlacido/senac_backend.git
 ```
